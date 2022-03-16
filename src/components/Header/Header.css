@@ -1,0 +1,13 @@
+
+.nav-bar ul {
+    list-style: none;
+}
+
+.nav-bar ul li {
+    margin-left: 20px;
+}
+
+.container {
+    width: 95%;
+    overflow: hidden;
+}
